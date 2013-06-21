@@ -1,0 +1,8 @@
+1363761041
+Application	/home/virtue3/test_blog/test_blog/config/application.rb	  class Application 
+ApplicationController	/home/virtue3/test_blog/test_blog/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/virtue3/test_blog/test_blog/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/home/virtue3/test_blog/test_blog/test/performance/browsing_test.rb	class BrowsingTest 
+TestBlog	/home/virtue3/test_blog/test_blog/config/application.rb	module TestBlog
+TestCase	/home/virtue3/test_blog/test_blog/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	/home/virtue3/test_blog/test_blog/test/performance/browsing_test.rb	  def test_homepage
